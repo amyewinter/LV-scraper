@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author">González&#x20;Herrera,&#x20;Manuel</dcvalue>
+  <dcvalue element="date" qualifier="accessioned" language="">2010-12-08T18:05:02Z</dcvalue>
+  <dcvalue element="date" qualifier="available" language="">2010-12-08T18:05:02Z</dcvalue>
+  <dcvalue element="date" qualifier="issued">2006</dcvalue>
+  <dcvalue element="identifier" qualifier="isbn" language="">9978225978</dcvalue>
+  <dcvalue element="identifier" qualifier="isbn" language="">9789978225974</dcvalue>
+  <dcvalue element="identifier" qualifier="uri">http:&#x2F;&#x2F;hdl.handle.net&#x2F;1928&#x2F;11720</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Submitted&#x20;by&#x20;Todd&#x20;Hollister&#x20;(thollist@unm.edu)&#x20;on&#x20;2010-12-08T18:05:02Z&#x0D;&#x0A;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;Gestión&#x20;ambiental&#x20;de&#x20;los&#x20;impactos&#x20;del&#x20;turismo.pdf:&#x20;941476&#x20;bytes,&#x20;checksum:&#x20;3205a0edb80faa60e9c483c875a63241&#x20;(MD5)</dcvalue>
+  <dcvalue element="description" qualifier="provenance" language="en">Made&#x20;available&#x20;in&#x20;DSpace&#x20;on&#x20;2010-12-08T18:05:02Z&#x20;(GMT).&#x20;No.&#x20;of&#x20;bitstreams:&#x20;1&#x0D;&#x0A;Gestión&#x20;ambiental&#x20;de&#x20;los&#x20;impactos&#x20;del&#x20;turismo.pdf:&#x20;941476&#x20;bytes,&#x20;checksum:&#x20;3205a0edb80faa60e9c483c875a63241&#x20;(MD5)&#x0D;&#x0A;&#x20;&#x20;Previous&#x20;issue&#x20;date:&#x20;2006</dcvalue>
+  <dcvalue element="language" qualifier="iso" language="en_US">es</dcvalue>
+  <dcvalue element="publisher" qualifier="none" language="en_US">Abya-Yala</dcvalue>
+  <dcvalue element="subject" qualifier="lcsh">Tourism&#x20;--&#x20;Environmental&#x20;aspects</dcvalue>
+  <dcvalue element="title" qualifier="none" language="en_US">Gestión&#x20;ambiental&#x20;de&#x20;los&#x20;impactos&#x20;del&#x20;turismo&#x20;en&#x20;espacios&#x20;geográficos&#x20;sensibles</dcvalue>
+  <dcvalue element="title" qualifier="alternative" language="en_US">Environmental&#x20;management&#x20;of&#x20;tourism&#x20;impacts&#x20;in&#x20;sensitive&#x20;geographical&#x20;areas</dcvalue>
+  <dcvalue element="type" qualifier="none" language="en_US">Book</dcvalue>
+</dublin_core>
